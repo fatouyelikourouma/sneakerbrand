@@ -1,2 +1,3 @@
 # sneakerbrand
 simple static html/css landing page 
+<p>This is a project I made using a YouTube tutorial on html/css to give me a short refresher. It was interesting building it because my previous experiences with html and css have been bootstrap or template based, while this was 100% custom styling. Though the styling wasn't that bad, it still felt like I was using frameworks as a crutch in my past projects and was limiting myself. I've never been able to finish a formal course, so maybe this will push me to do so. I was proud of myself for going a little off the grain and changing my design from what was in the tutorial. It was kind because some functions didn't work when I tried, but I also wanted to add my own flair.</p>
